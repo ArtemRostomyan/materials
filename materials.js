@@ -16,7 +16,7 @@
     {
         "id": "mat-2",
         "name": "рогожка",
-        "price": 3000,
+        "price": 2800,
         "available": true,
         "complexity_organization": 5.5
     }
