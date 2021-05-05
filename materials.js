@@ -63,7 +63,7 @@
         "complexity_organization": 2.1
     },
     {
-        "id": "mat-6",
+        "id": "mat-7",
         "type": "ткань",
         "name": "рогожка",
         "color": "желтый янтарь"
