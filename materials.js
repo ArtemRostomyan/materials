@@ -66,7 +66,7 @@
         "id": "mat-7",
         "type": "ткань",
         "name": "рогожка",
-        "color": "желтый янтарь"
+        "color": "желтый янтарь",
         "laundry": true,
         "dog": true,
         "image": "https://sofme.ru/images/0029/3424.jpg",
