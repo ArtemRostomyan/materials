@@ -70,7 +70,7 @@
         "laundry": true,
         "dog": true,
         "image": "https://sofme.ru/images/0029/3424.jpg",
-        "price": 2500,
+        "price": 1000,
         "available": true,
         "complexity_organization": 1.6
     }
