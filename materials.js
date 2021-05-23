@@ -13,16 +13,29 @@
         "price": 1000,
         "available": true,
         "complexity_organization": 3.5,
-        "maintenance": {
-            "stirka": {
+        "maintenance": [
+            {
+                "name": "stirka",
                 "id": "laundry-1",
-                "stirka-degree": 30, 
+                "stirka-degree": 30
             },
-            "otbelivanie": "otbelivanie-1",
-            "pressing": "pressing-2",
-            "gladit": "iron-2",
-            "cleaning": "cleaning-1"
-        }
+            {
+                "name": "otbelivanie",
+                "id": "otbelivanie-1"
+            },
+            {
+                "name": "pressing",
+                "id": "pressing-2"
+            },
+            {
+                "name": "glazhka",
+                "id": "iron-2"
+            },
+            {
+                "name": "him_chistka",
+                "id": "cleaning-1"
+            }
+        ]
     },
     {
         "id": "mat-2",
@@ -38,7 +51,30 @@
         "Martindale": 80000,
         "Wyzenbeek": "20 000 Double Rubs (cotton duck) Flame Retardant: NFPA 260 Class (UFAC), Cal 117/SE, MVSS 302, BS 5852 source 0",
         "available": false,
-        "complexity_organization": 4.5
+        "complexity_organization": 4.5,
+        "maintenance": [
+            {
+                "name": "stirka",
+                "id": "laundry-1",
+                "stirka-degree": 40
+            },
+            {
+                "name": "otbelivanie",
+                "id": "otbelivanie-2"
+            },
+            {
+                "name": "pressing",
+                "id": "pressing-1"
+            },
+            {
+                "name": "glazhka",
+                "id": "iron-1"
+            },
+            {
+                "name": "him_chistka",
+                "id": "cleaning-1"
+            }
+        ]
     },
     {
         "id": "mat-3",
@@ -55,15 +91,28 @@
         "Wyzenbeek": "20 000 Double Rubs (cotton duck) Flame Retardant: NFPA 260 Class (UFAC), Cal 117/SE, MVSS 302, BS 5852 source 0",
         "available": true,
         "complexity_organization": 5.5,
-        "maintenance": {
-            "stirka": {
+        "maintenance": [
+            {
+                "name": "stirka",
                 "id": "laundry-2"
             },
-            "otbelivanie": "otbelivanie-1",
-            "pressing": "pressing-2",
-            "gladit": "iron-2",
-            "cleaning": "cleaning-1"
-        }
+            {
+                "name": "otbelivanie",
+                "id": "otbelivanie-1"
+            },
+            {
+                "name": "pressing",
+                "id": "pressing-1"
+            },
+            {
+                "name": "glazhka",
+                "id": "iron-1"
+            },
+            {
+                "name": "him_chistka",
+                "id": "cleaning-1"
+            }
+        ]
     },
     {
         "id": "mat-4",
@@ -80,16 +129,29 @@
         "Wyzenbeek": "20 000 Double Rubs (cotton duck) Flame Retardant: NFPA 260 Class (UFAC), Cal 117/SE, MVSS 302, BS 5852 source 0",
         "available": true,
         "complexity_organization": 6.5,
-        "maintenance": {
-            "stirka": {
+        "maintenance": [
+            {
+                "name": "stirka",
                 "id": "laundry-1",
-                "stirka-degree": 40, 
+                "stirka-degree": 60
             },
-            "otbelivanie": "otbelivanie-2",
-            "pressing": "pressing-2",
-            "gladit": "iron-2",
-            "cleaning": "cleaning-2"
-        }
+            {
+                "name": "otbelivanie",
+                "id": "otbelivanie-2"
+            },
+            {
+                "name": "pressing",
+                "id": "pressing-2"
+            },
+            {
+                "name": "glazhka",
+                "id": "iron-2"
+            },
+            {
+                "name": "him_chistka",
+                "id": "cleaning-1"
+            }
+        ]
     },
     {
         "id": "mat-5",
@@ -105,16 +167,29 @@
         "Martindale": 300000,
         "available": false,
         "complexity_organization": 5.8,
-        "maintenance": {
-            "stirka": {
+        "maintenance": [
+            {
+                "name": "stirka",
                 "id": "laundry-1",
-                "stirka-degree": 70, 
+                "stirka-degree": 70
             },
-            "otbelivanie": "otbelivanie-1",
-            "pressing": "pressing-1",
-            "gladit": "iron-1",
-            "cleaning": "cleaning-1"
-        }
+            {
+                "name": "otbelivanie",
+                "id": "otbelivanie-2"
+            },
+            {
+                "name": "pressing",
+                "id": "pressing-1"
+            },
+            {
+                "name": "glazhka",
+                "id": "iron-2"
+            },
+            {
+                "name": "him_chistka",
+                "id": "cleaning-2"
+            }
+        ]
     },
     {
         "id": "mat-6",
@@ -129,16 +204,29 @@
         "Martindale": 200000,
         "available": false,
         "complexity_organization": 2.1,
-        "maintenance": {
-            "stirka": {
+        "maintenance": [
+            {
+                "name": "stirka",
                 "id": "laundry-1",
-                "stirka-degree": 60, 
+                "stirka-degree": 60
             },
-            "otbelivanie": "otbelivanie-2",
-            "pressing": "pressing-1",
-            "gladit": "iron-2",
-            "cleaning": "cleaning-1"
-        }
+            {
+                "name": "otbelivanie",
+                "id": "otbelivanie-1"
+            },
+            {
+                "name": "pressing",
+                "id": "pressing-2"
+            },
+            {
+                "name": "glazhka",
+                "id": "iron-1"
+            },
+            {
+                "name": "him_chistka",
+                "id": "cleaning-2"
+            }
+        ]
     },
     {
         "id": "mat-7",
@@ -156,14 +244,27 @@
         "price": 1000,
         "available": true,
         "complexity_organization": 1.6,
-        "maintenance": {
-            "stirka": {
-                "id": "laundry-1"
+        "maintenance": [
+            {
+                "name": "stirka",
+                "id": "laundry-2"
             },
-            "otbelivanie": "otbelivanie-2",
-            "pressing": "pressing-1",
-            "gladit": "iron-1",
-            "cleaning": "cleaning-2"
-        }
+            {
+                "name": "otbelivanie",
+                "id": "otbelivanie-2"
+            },
+            {
+                "name": "pressing",
+                "id": "pressing-1"
+            },
+            {
+                "name": "glazhka",
+                "id": "iron-1"
+            },
+            {
+                "name": "him_chistka",
+                "id": "cleaning-1"
+            }
+        ]
     }
 ]
