@@ -14,8 +14,10 @@
         "available": true,
         "complexity_organization": 3.5,
         "maintenance": {
-            "stirka": "laundry-1",
-            "stirka-degree": 30,
+            "stirka": {
+                "id": "laundry-1",
+                "stirka-degree": 30, 
+            },
             "otbelivanie": "otbelivanie-1",
             "pressing": "pressing-2",
             "gladit": "iron-2",
@@ -54,7 +56,9 @@
         "available": true,
         "complexity_organization": 5.5,
         "maintenance": {
-            "stirka": "laundry-2",
+            "stirka": {
+                "id": "laundry-2"
+            },
             "otbelivanie": "otbelivanie-1",
             "pressing": "pressing-2",
             "gladit": "iron-2",
@@ -77,8 +81,10 @@
         "available": true,
         "complexity_organization": 6.5,
         "maintenance": {
-            "stirka": "laundry-1",
-            "stirka-degree": 40,
+            "stirka": {
+                "id": "laundry-1",
+                "stirka-degree": 40, 
+            },
             "otbelivanie": "otbelivanie-2",
             "pressing": "pressing-2",
             "gladit": "iron-2",
@@ -100,8 +106,10 @@
         "available": false,
         "complexity_organization": 5.8,
         "maintenance": {
-            "stirka": "laundry-1",
-            "stirka-degree": 70,
+            "stirka": {
+                "id": "laundry-1",
+                "stirka-degree": 70, 
+            },
             "otbelivanie": "otbelivanie-1",
             "pressing": "pressing-1",
             "gladit": "iron-1",
@@ -122,8 +130,10 @@
         "available": false,
         "complexity_organization": 2.1,
         "maintenance": {
-            "stirka": "laundry-1",
-            "stirka-degree": 60,
+            "stirka": {
+                "id": "laundry-1",
+                "stirka-degree": 60, 
+            },
             "otbelivanie": "otbelivanie-2",
             "pressing": "pressing-1",
             "gladit": "iron-2",
@@ -147,7 +157,9 @@
         "available": true,
         "complexity_organization": 1.6,
         "maintenance": {
-            "stirka": "laundry-2",
+            "stirka": {
+                "id": "laundry-1"
+            },
             "otbelivanie": "otbelivanie-2",
             "pressing": "pressing-1",
             "gladit": "iron-1",
