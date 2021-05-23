@@ -12,7 +12,15 @@
         "Wyzenbeek": "20 000 Double Rubs (cotton duck) Flame Retardant: NFPA 260 Class (UFAC), Cal 117/SE, MVSS 302, BS 5852 source 0",
         "price": 1000,
         "available": true,
-        "complexity_organization": 3.5
+        "complexity_organization": 3.5,
+        "maintenance": {
+            "stirka": "laundry-1",
+            "stirka-degree": 30,
+            "otbelivanie": "otbelivanie-1",
+            "pressing": "pressing-2",
+            "gladit": "iron-2",
+            "cleaning": "cleaning-1"
+        }
     },
     {
         "id": "mat-2",
@@ -44,7 +52,14 @@
         "Martindale": 120000,
         "Wyzenbeek": "20 000 Double Rubs (cotton duck) Flame Retardant: NFPA 260 Class (UFAC), Cal 117/SE, MVSS 302, BS 5852 source 0",
         "available": true,
-        "complexity_organization": 5.5
+        "complexity_organization": 5.5,
+        "maintenance": {
+            "stirka": "laundry-2",
+            "otbelivanie": "otbelivanie-1",
+            "pressing": "pressing-2",
+            "gladit": "iron-2",
+            "cleaning": "cleaning-1"
+        }
     },
     {
         "id": "mat-4",
@@ -60,7 +75,15 @@
         "Martindale": 150000,
         "Wyzenbeek": "20 000 Double Rubs (cotton duck) Flame Retardant: NFPA 260 Class (UFAC), Cal 117/SE, MVSS 302, BS 5852 source 0",
         "available": true,
-        "complexity_organization": 6.5
+        "complexity_organization": 6.5,
+        "maintenance": {
+            "stirka": "laundry-1",
+            "stirka-degree": 40,
+            "otbelivanie": "otbelivanie-2",
+            "pressing": "pressing-2",
+            "gladit": "iron-2",
+            "cleaning": "cleaning-2"
+        }
     },
     {
         "id": "mat-5",
@@ -75,7 +98,15 @@
         "Wyzenbeek": "20 000 Double Rubs (cotton duck) Flame Retardant: NFPA 260 Class (UFAC), Cal 117/SE, MVSS 302, BS 5852 source 0",
         "Martindale": 300000,
         "available": false,
-        "complexity_organization": 5.8
+        "complexity_organization": 5.8,
+        "maintenance": {
+            "stirka": "laundry-1",
+            "stirka-degree": 70,
+            "otbelivanie": "otbelivanie-1",
+            "pressing": "pressing-1",
+            "gladit": "iron-1",
+            "cleaning": "cleaning-1"
+        }
     },
     {
         "id": "mat-6",
@@ -89,7 +120,15 @@
         "Wyzenbeek": "20 000 Double Rubs (cotton duck) Flame Retardant: NFPA 260 Class (UFAC), Cal 117/SE, MVSS 302, BS 5852 source 0",
         "Martindale": 200000,
         "available": false,
-        "complexity_organization": 2.1
+        "complexity_organization": 2.1,
+        "maintenance": {
+            "stirka": "laundry-1",
+            "stirka-degree": 60,
+            "otbelivanie": "otbelivanie-2",
+            "pressing": "pressing-1",
+            "gladit": "iron-2",
+            "cleaning": "cleaning-1"
+        }
     },
     {
         "id": "mat-7",
@@ -106,6 +145,13 @@
         "image": "https://sofme.ru/images/0029/3424.jpg",
         "price": 1000,
         "available": true,
-        "complexity_organization": 1.6
+        "complexity_organization": 1.6,
+        "maintenance": {
+            "stirka": "laundry-2",
+            "otbelivanie": "otbelivanie-2",
+            "pressing": "pressing-1",
+            "gladit": "iron-1",
+            "cleaning": "cleaning-2"
+        }
     }
 ]
